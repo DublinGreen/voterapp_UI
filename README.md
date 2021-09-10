@@ -1,7 +1,5 @@
 # voterapp_UI
 
-# USSD ADMIN UI
-
 ## Project setup
 
 ```
